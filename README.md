@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Computer Science graduate from Royal Holloway University, passionate about creating Full Stack web applications.
+I'm a Computer Science graduate and software developer passionate about building projects across various languages and tech stacks. I love experimenting with new frameworks, tools, and architectures to expand my knowledge and improve my craft.
+
+Check out my projects and feel free to connect!
 
 
 ## 🌐 Socials:
